@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+.nav-items{
+    align-items: center;
+    margin-top: 5px;
+}
+
+.fa fa-bars{
+    margin-top: 10px;
+}
